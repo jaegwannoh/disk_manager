@@ -1,0 +1,13 @@
+# runtime files (contain server passwords / local state)
+servers.txt
+servers.txt.tmp
+demo_servers.txt
+window.ini
+logs/
+
+# ssh_test.py outputs
+ssh_test_result.txt
+ssh_test_paramiko.log
+
+# python
+*.pyc
